@@ -1,5 +1,4 @@
 # Ubuntu-Conversation-Challenge
-This repositori is for NLP task in python
 Challenge
 There are two parts of this challenge. Feel free to create the solutions in the language or tool of your choice.
 
